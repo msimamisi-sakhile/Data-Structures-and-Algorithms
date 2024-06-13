@@ -1,0 +1,16 @@
+java -cp bin VaccineBSTApp
+Enter the data file [Enter the filename and extention only e.g. example.csv]
+
+Enter the date:
+Enter the list of countries(end with an empty line)
+Results:
+North Pole = <Not Found>
+29 search operations.
+
+Atlantis = <Not Found>
+25 search operations.
+
+Olympus = <Not Found>
+25 search operations.
+
+161347 insertion operations.

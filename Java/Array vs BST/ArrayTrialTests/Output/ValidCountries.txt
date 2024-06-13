@@ -1,0 +1,16 @@
+java -cp bin VaccineArrayApp
+Enter data file [Enter the filename and extention only e.g. example.csv]
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+Norway = 5803
+2314 search operations.
+
+Suriname = 134
+2324 search operations.
+
+China = 5718714
+3180 search operations.
+
+9919 insert operations

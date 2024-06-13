@@ -1,0 +1,16 @@
+java -cp bin VaccineArrayApp
+Enter data file [Enter the filename and extention only e.g. example.csv]
+
+Enter the date:
+Enter the list of countries (end with an empty line):
+Results:
+North Pole = <Not Found>
+9919 search operations.
+
+Atlantis = <Not Found>
+9919 search operations.
+
+Olympus = <Not Found>
+9919 search operations.
+
+9919 insert operations

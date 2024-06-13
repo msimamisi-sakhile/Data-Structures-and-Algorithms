@@ -1,0 +1,16 @@
+java -cp bin VaccineBSTApp
+Enter the data file [Enter the filename and extention only e.g. example.csv]
+
+Enter the date:
+Enter the list of countries(end with an empty line)
+Results:
+Norway = 5803
+22 search operations.
+
+Suriname = 134
+15 search operations.
+
+China = 5718714
+12 search operations.
+
+161347 insertion operations.
