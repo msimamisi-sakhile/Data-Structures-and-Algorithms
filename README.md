@@ -1,6 +1,6 @@
 # Data Structures Implementation in Various Languages
 
-This project demonstrates the implementation of core data structures in multiple programming languages: **Python**, **Java**, **C++**, and **JavaScript**. It provides a comparison of syntax, memory handling, and performance nuances across languages.
+This project demonstrates the implementation of core data structures in multiple programming languages: **Java**.
 
 ## Data Structures Covered
 
@@ -14,4 +14,4 @@ Each data structure includes:
 - Complexity analysis
 - Language-specific considerations
 
-This project is a reference for understanding and comparing data structure implementations in popular languages.
+This project is for understanding and comparing data structure implementations in popular languages.
