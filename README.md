@@ -1,1 +1,1 @@
-Data Structures implemented in various programming languages
+Implemenation of Data Structures in various languages
