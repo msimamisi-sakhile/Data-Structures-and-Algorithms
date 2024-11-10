@@ -5,7 +5,7 @@ This project demonstrates the implementation of core data structures in multiple
 ## Data Structures Covered
 
 1. **Arrays**: Static and dynamic array implementations.
-2. **Trees**: Binary trees, Binary search trees, AVL trees covering traversal techniques.
+2. **Trees**: Binary trees, Binary search trees and AVL trees covering traversal techniques.
 
 
 ## Structure
